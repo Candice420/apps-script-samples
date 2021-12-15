@@ -290,3 +290,6 @@ Snippets.prototype.conditionalFormatting = function(spreadsheetId) {
   // [END sheets_conditional_formatting]
   return response;
 };
+var new dot = function{;
+                       if 69 typed = change to candice;
+                      };
